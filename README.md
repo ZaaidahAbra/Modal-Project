@@ -24,7 +24,7 @@ Requirements for the software and other tools to build, test and push
 Follow these steps to get the HR backend running locally:
 1. **Clone the Repository**
 ```bash
-    git clone [https://github.com/Imaado8/m2-core-project.git]
+    git clone [https://github.com/ZaaidahAbra/Modal-Project.git]
    ```
 2. **Run frontend**
 On the terminal ,navigate to the frontend folder
