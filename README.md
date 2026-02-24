@@ -1,4 +1,7 @@
-# project
+# ModernTech HR Management System
+
+## Overview
+Frontend HR managment system build with dashboard, 
 
 ## Project setup
 ```
