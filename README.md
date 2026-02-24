@@ -1,22 +1,65 @@
-# ModernTech HR Management System
-
-## Overview
-Frontend HR managment system build with dashboard, 
-
-## Project setup
-```
+# ModernTech Solutions HR System
+- - - -
+ModernTech Solutions is a fully functional HR management web application that automates HR functions like managing their employees information , attendance, payroll ,leave request as well as performance reviews.
+- - - -
+## Table of Contents
+ - [Live Demo](#live-demo)
+ - [Technologies Used](#technologies-used)
+ - [Setup Instructions](#setup-instructions)
+ - [Key Features](#key-features)
+ - [Login Credentials](#login-credentials)
+ - [Contributing](#contributing)
+- - - -
+## Live Demo
+[Link to the live deployed website](https://modal-project-delta.vercel.app/login)
+- - - -
+## Technologies Used
+    * Frontend: Vue 3 , Tailwind CSS, Bootstrap, Axios
+- - - -
+### Prerequisites
+Requirements for the software and other tools to build, test and push
+- VS code
+- - - -
+### Set up Instructions
+Follow these steps to get the HR backend running locally:
+1. **Clone the Repository**
+```bash
+    git clone [https://github.com/Imaado8/m2-core-project.git]
+   ```
+2. **Run frontend**
+On the terminal ,navigate to the frontend folder
+```bash
+cd frontend
 npm install
 ```
-
-### Compiles and hot-reloads for development
-```
+7. **Start frontend server:**
+```bash
 npm run serve
 ```
-
-### Compiles and minifies for production
+8. It will generate links, click the local link to see the website.
+```bash
+ App running at:
+  - Local:   http://localhost:8080/
+  - Network: http://192.168.3.150:8080/
 ```
-npm run build
+- - - -
+## Key Features
+    * Login page with password
+    * Employee management -ability to manage, add, update,delete employee information
+    * Attendance Tracking
+    * Leave Requests
+    * Payroll Management with generated payslips
+    * Performance review
+- - - -
+### Login Credentials
+Enter the below email and password for access.
+```bash
+    email: admin@hr.com
+    Password: 2025
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  - - - -
+## Contributing
+This project is a collaborative effort by group 10:
+- *Zaaidah Abrahams*
+- *Hanaa Richards*
+- - - -
